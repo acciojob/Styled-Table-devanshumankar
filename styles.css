@@ -1,1 +1,13 @@
 /* your code */
+table{
+	border-collapse:collapse;
+}
+thead{
+	background-color:skyblue;
+}
+#odd{
+	background-color:whitesmoke;
+}
+#even{
+	background-color:lightgray;
+}
